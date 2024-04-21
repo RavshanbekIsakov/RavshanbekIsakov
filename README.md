@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravshan. You can call me Alvin</h1>
 <h3 align="center">A passionate Fullsatck developer from Uzbekistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://lottie.host/embed/0faa9803-a31f-4070-9f81-29b1938ebe5c/5ZF1GuPSUR.json">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif">
 
 - 🔭 I’m currently working on [dvm-agrar.uz](dvm-agrar.uz)
 

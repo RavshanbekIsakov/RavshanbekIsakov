@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ravshan. You can call me Alvin</h1>
 <h3 align="center">A passionate Fullsatck developer from Uzbekistan</h3>
 
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/3079099-Coding-coding-coding?utm_source=Clipboard_Shot&utm_campaign=elenmay&utm_content=Coding...coding..coding&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=elenmay&utm_content=Coding...coding..coding&utm_medium=Social_Share">
+
 - 🔭 I’m currently working on [dvm-agrar.uz](dvm-agrar.uz)
 
 - 🌱 I’m currently learning **Vue js, Bootstrap, Tailwind**
